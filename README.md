@@ -99,3 +99,8 @@ Built during an 8-week cybersecurity placement, this project moved through indep
 ## Disclaimer
 
 Example reports and business names used in testing are entirely simulated fixtures created for validation purposes and do not represent real clients or businesses.
+
+## Video Walkthrough
+A screen recording of the audit engine running end-to-end:
+
+🎥 [Watch here](https://youtu.be/ngWiCvxWNc4)
