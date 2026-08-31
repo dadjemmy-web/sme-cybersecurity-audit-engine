@@ -20,34 +20,34 @@ The engine takes a business through **ten evidence-based diagnostic questions**,
 
 ### The Ten Diagnostic Questions
 
-**Q1 — Backup and Business Continuity**
+**Q1 - Backup and Business Continuity**
 If your most important device was stolen tonight, could the business keep running tomorrow, and would anything be permanently lost? When did you last restore something from your backup to check that it works?
 
-**Q2 — Passwords and Multi-Factor Authentication**
+**Q2 - Passwords and Multi-Factor Authentication**
 Do all your business accounts, email, banking, and cloud tools require more than just a password to log in, and are those passwords long, unique, and not shared across more than one account?
 
-**Q3 — Access Control and Former Staff**
+**Q3 - Access Control and Former Staff**
 Are there people, former staff, contractors, or old suppliers, who may still be able to access your business systems or files? Can you say who currently has access to each of your systems?
 
-**Q4 — Staff Awareness and Phishing**
+**Q4 - Staff Awareness and Phishing**
 Do you and your staff know what a convincing scam looks like today, not five years ago, but now? When did you last have any training or briefing on it?
 
-**Q5 — Shadow IT and App Risk**
+**Q5 - Shadow IT and App Risk**
 How many tools and apps does the business use, and do you know what the free ones do with your data?
 
-**Q6 — Past Incidents and Near Misses**
+**Q6 - Past Incidents and Near Misses**
 Has anything ever felt wrong, a suspicious email, a login alert you ignored, a call asking you to confirm your account details? What did you do about it, and did anything change as a result?
 
-**Q7 — Offboarding and Leavers**
+**Q7 - Offboarding and Leavers**
 When a staff member or contractor leaves, what is the process for removing their access, and has it always been followed?
 
-**Q8 — Supplier and Third-Party Access**
+**Q8 - Supplier and Third-Party Access**
 Do the suppliers and contractors who help run your business have access to your systems, and do you know how they protect it? Is there anything in writing covering that access?
 
-**Q9 — Incident Response Readiness**
+**Q9 - Incident Response Readiness**
 If your systems went down tonight, email inaccessible, files locked, what would you do in the first hour and who would you call? Is any of that written down, and when was it last checked or practised?
 
-**Q10 — GDPR and Legal Obligations**
+**Q10 - GDPR and Legal Obligations**
 Does your business have a privacy policy, and do you know you may be legally required to report certain data incidents to the regulator within 72 hours? Has anything like that ever happened, and how was it handled?
 
 These questions are grounded in **five root causes** behind most UK SME breaches, identified through NCSC and ICO research: phishing and staff deception, weak or stolen credentials, poorly configured systems, supply chain vulnerabilities, and poor access control.
