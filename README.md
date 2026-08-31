@@ -88,8 +88,8 @@ Each business was tested **twice per version, on separate days**, to surface any
 
 ## Tech Stack
 
-- **JSON** — core rules engine and scoring logic
-- **API-driven prompt layer** — thin, replaceable interface wrapper
+- **JSON** - core rules engine and scoring logic
+- **API-driven prompt layer** - thin, replaceable interface wrapper
 - Framework alignment: ISO 27001, NCSC Cyber Essentials, GDPR, NIST CSF, CIS Controls v8
 
 ## Project Background
